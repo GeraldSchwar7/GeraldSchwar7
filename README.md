@@ -1,4 +1,4 @@
-# Hi! My name is Gerald Schwarz, and I am an aspiring computer programmer✌
+# Hi! My name is Gerald Schwarz, and I am an aspiring computer programmer/game programmer✌
 
 - Currently, I am in University and am majoring in Computer Science
 - I love robotics and most things technology, mainly the programming part
